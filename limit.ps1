@@ -4,3 +4,6 @@ $total = $num1 + $num2
 if ($total -gt 70){
     Write-host "Pass"
 }
+else{
+    Write-Host "Fail"
+}
